@@ -1,6 +1,14 @@
-# Hi, I'm Roman 👋
+Roman Pushkarev
+
+AI Data Annotation
+Dataset Quality
+AI Training Data
+
+-----------------------------------
 
 ## About Me
+
+I build small tools that make AI data annotation and dataset quality workflows easier.
 
 I enjoy improving data quality and building simple tools that make repetitive annotation tasks easier.
 
@@ -23,18 +31,26 @@ Currently looking for a **remote international opportunity** in AI Data Annotati
 - AI Training Data
 - Data Validation
 - Git & GitHub
-- Learning to read JavaScript for AI tools
+- Building practical AI data tools
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML
-- CSS
-- JavaScript (learning)
-- JSON
-- Git
-- GitHub
+Core Skills
+
+• AI Data Annotation
+• Dataset Quality
+• AI Training Data
+• Data Validation
+
+Tools
+
+• HTML
+• CSS
+• JavaScript
+• Git
+• GitHub
 
 ---
 
