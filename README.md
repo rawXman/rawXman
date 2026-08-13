@@ -1,140 +1,122 @@
-Roman Pushkarev
+# Roman Pushkarev
 
-AI Data Annotation
-Dataset Quality
-AI Training Data
+### AI Data Annotation • Dataset Quality • AI Training Data
 
------------------------------------
+I build practical tools for AI data annotation and dataset quality workflows.
 
-## About Me
+My goal is to create a portfolio of small, focused utilities inspired by real-world AI data operations while continuously improving my ability to understand, validate and process structured data.
 
-I build small tools that make AI data annotation and dataset quality workflows easier.
-
-I enjoy improving data quality and building simple tools that make repetitive annotation tasks easier.
-
-Instead of studying web development for its own sake, I focus on creating practical utilities inspired by real AI data workflows.
-
-Every project in this profile is built to solve a small, real-world problem.
-
-### Building small AI data tools with HTML, CSS and JavaScript.
-
-I am focused on creating practical tools for AI Data Annotation, Dataset Quality and AI Training workflows.
-
-Currently looking for a **remote international opportunity** in AI Data Annotation, Dataset Quality, Content Moderation or Research Support.
+I am currently looking for a **remote international opportunity** in AI Data Annotation, Dataset Quality, Content Moderation or AI Operations.
 
 ---
 
-## 🚀 Current Focus
+# About
 
-- AI Data Annotation
-- Dataset Quality
-- AI Training Data
-- Data Validation
-- Git & GitHub
-- Building practical AI data tools
+My interest is not web development itself.
 
----
+I use HTML, CSS and JavaScript as tools for building small applications that solve practical problems related to AI datasets.
 
-## 🛠 Tech Stack
-
-Core Skills
-
-• AI Data Annotation
-• Dataset Quality
-• AI Training Data
-• Data Validation
-
-Tools
-
-• HTML
-• CSS
-• JavaScript
-• Git
-• GitHub
+Each repository in this profile is part of one long-term goal: building a collection of useful AI data utilities while developing the skills needed for real AI data operations.
 
 ---
 
-## 📂 Featured Projects
+# AI Data Toolkit
 
-### AI Dataset Labeler
+| Project | Status | Description |
+|---------|:------:|------------|
+| **AI Dataset Labeler** | ✅ | Simple image annotation interface inspired by real AI labeling tools |
+| **Dataset Quality Checker** | 🚧 | Validation and analysis of JSON datasets |
+| **Dataset Statistics** | 📅 | Dataset statistics and class distribution |
+| **Annotation Converter** | 📅 | Convert annotations between common formats |
+| **Bounding Box Validator** | 📅 | Detect invalid bounding boxes |
+| **Duplicate Image Detector** | 📅 | Identify duplicate images inside datasets |
 
-A simple annotation interface inspired by real AI labeling tools.
+📅 = Planned
 
-**Tech:**
-HTML • CSS • JavaScript
+---
 
-Repository:
+# Featured Projects
+
+## AI Dataset Labeler
+
+A lightweight image annotation interface built to simulate basic AI data labeling workflows.
+
+**Repository**
+
 https://github.com/rawXman/ai-dataset-labeler
 
 ---
 
-### Dataset Quality Checker *(Work in Progress)*
+## Dataset Quality Checker
 
-Tool for checking AI datasets.
+A utility for validating JSON datasets before they are used for AI model training.
 
-Current features:
+Current functionality:
 
 - JSON upload
 - Object counting
-- Dataset statistics (in progress)
 
-**Tech:**
+Planned functionality:
 
-HTML • CSS • JavaScript
+- Class statistics
+- Missing field detection
+- Duplicate detection
+- Dataset validation
+- Quality reports
 
-Repository:
+**Repository**
 
 https://github.com/rawXman/dataset-quality-checker
 
 ---
 
-## 🎯 What I'm Building Next
+# Technologies
 
-- Dataset Statistics
-- Dataset Validator
-- Annotation Converter
-- Duplicate Image Checker
-- Bounding Box Validator
+### AI Data
 
-The goal is to build a small collection of practical AI data utilities.
+- Data Annotation
+- Dataset Quality
+- AI Training Data
+- Data Validation
+
+### Development
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Git
+- GitHub
 
 ---
 
-## 🌱 Currently Learning
+# Currently Learning
 
-I am not learning frontend development.
+My objective is **not** to become a frontend developer.
 
-My goal is to understand and read JavaScript well enough to build and improve practical AI tools with the help of modern AI assistants.
+Instead, I am learning to confidently read and understand JavaScript so I can build and improve practical AI data tools with the help of modern AI assistants.
 
 ---
 
-## 💼 Looking For
+# Career Goal
 
-I'm interested in remote positions such as:
+I am interested in remote positions involving:
 
 - AI Data Annotation
 - Dataset Quality
-- AI Training Data
+- AI Operations
 - Content Moderation
 - Research Assistant
 - Technical Support
 
 ---
 
-## 📫 Contact
+# Contact
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/roman-pushkarev-71a583414
 
-Email
+**Email**
 
 rawxman@yandex.ru
-
-CV
-
-English CV:
-https://github.com/rawXman/CV-eng
-
-Russian CV:
-https://github.com/rawXman/cv
