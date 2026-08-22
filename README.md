@@ -1,122 +1,89 @@
 # Roman Pushkarev
 
-### AI Data Annotation • Dataset Quality • AI Training Data
+### AI Evaluation • Data Quality • Manual QA • Web QA
 
-I build practical tools for AI data annotation and dataset quality workflows.
+I build practical tools and testing projects focused on AI data quality, evaluation and software testing.
 
-My goal is to create a portfolio of small, focused utilities inspired by real-world AI data operations while continuously improving my ability to understand, validate and process structured data.
+My portfolio combines:
 
-I am currently looking for a **remote international opportunity** in AI Data Annotation, Dataset Quality, Content Moderation or AI Operations.
+- AI response evaluation and quality assessment
+- Dataset validation and data quality
+- Data annotation and structured review
+- Manual QA and test case design
+- Web testing and browser-based debugging
+- API testing and test automation — currently learning
 
----
+## Featured Projects
 
-# About
+### [Dataset Quality Checker](https://github.com/rawXman/dataset-quality-checker)
 
-My interest is not web development itself.
+A browser-based tool for validating JSON datasets and identifying common data quality issues.
 
-I use HTML, CSS and JavaScript as tools for building small applications that solve practical problems related to AI datasets.
+**Demonstrates:**
+- dataset validation
+- missing field detection
+- duplicate ID detection
+- class distribution analysis
+- structured quality reporting
+- JavaScript and browser APIs
 
-Each repository in this profile is part of one long-term goal: building a collection of useful AI data utilities while developing the skills needed for real AI data operations.
+### [AI Dataset Labeler](https://github.com/rawXman/ai-dataset-labeler)
 
----
+A lightweight browser-based annotation tool for assigning labels to image data.
 
-# AI Data Toolkit
+**Demonstrates:**
+- data annotation workflow
+- structured labeling
+- browser-based interaction
+- HTML, CSS and JavaScript
 
-| Project | Status | Description |
-|---------|:------:|------------|
-| **AI Dataset Labeler** | ✅ | Simple image annotation interface inspired by real AI labeling tools |
-| **Dataset Quality Checker** | 🚧 | Validation and analysis of JSON datasets |
-| **Dataset Statistics** | 📅 | Dataset statistics and class distribution |
-| **Annotation Converter** | 📅 | Convert annotations between common formats |
-| **Bounding Box Validator** | 📅 | Detect invalid bounding boxes |
-| **Duplicate Image Detector** | 📅 | Identify duplicate images inside datasets |
+## Current Focus
 
-📅 = Planned
+I am currently expanding my portfolio toward:
 
----
+- AI / LLM evaluation
+- Data quality and annotation QA
+- Manual QA
+- Web QA
+- API testing
+- Playwright automation
 
-# Featured Projects
+The goal is to build portfolio projects around realistic tasks rather than isolated programming exercises.
 
-## AI Dataset Labeler
+## Technologies
 
-A lightweight image annotation interface built to simulate basic AI data labeling workflows.
+**Testing & QA**
+- Manual testing
+- Test cases
+- Bug reports
+- Exploratory testing
+- Browser DevTools
+- API testing
 
-**Repository**
-
-https://github.com/rawXman/ai-dataset-labeler
-
----
-
-## Dataset Quality Checker
-
-A utility for validating JSON datasets before they are used for AI model training.
-
-Current functionality:
-
-- JSON upload
-- Object counting
-
-Planned functionality:
-
-- Class statistics
-- Missing field detection
-- Duplicate detection
-- Dataset validation
-- Quality reports
-
-**Repository**
-
-https://github.com/rawXman/dataset-quality-checker
-
----
-
-# Technologies
-
-### AI Data
-
-- Data Annotation
-- Dataset Quality
-- AI Training Data
-- Data Validation
-
-### Development
-
-- HTML
-- CSS
-- JavaScript
+**AI & Data**
+- AI evaluation
+- Data annotation
+- Dataset quality
 - JSON
-- Git
-- GitHub
 
----
+**Technical**
+- HTML5
+- CSS3
+- JavaScript
+- Git / GitHub
 
-# Currently Learning
+## About
 
-My objective is **not** to become a frontend developer.
+I am interested in remote roles related to AI evaluation, data quality and software testing.
 
-Instead, I am learning to confidently read and understand JavaScript so I can build and improve practical AI data tools with the help of modern AI assistants.
+My background in production work taught me to work with structured processes, follow requirements and identify problems in operational workflows. I am now applying the same approach to AI data and software quality.
 
----
+## Related Work
 
-# Career Goal
+[AI Annotation Portfolio](https://github.com/rawXman/ai-annotation-portfolio)
 
-I am interested in remote positions involving:
+## Contact
 
-- AI Data Annotation
-- Dataset Quality
-- AI Operations
-- Content Moderation
-- Research Assistant
-- Technical Support
+[LinkedIn](https://www.linkedin.com/in/roman-pushkarev-1a363414)
 
----
-
-# Contact
-
-**LinkedIn**
-
-https://www.linkedin.com/in/roman-pushkarev-71a583414
-
-**Email**
-
-rawxman@yandex.ru
+GitHub: [@rawXman](https://github.com/rawXman)
