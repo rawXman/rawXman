@@ -20,6 +20,7 @@ My portfolio combines:
 A browser-based tool for validating JSON datasets and identifying common data quality issues.
 
 **Demonstrates:**
+
 - dataset validation
 - missing field detection
 - duplicate ID detection
@@ -32,6 +33,7 @@ A browser-based tool for validating JSON datasets and identifying common data qu
 A lightweight browser-based annotation tool for assigning labels to image data.
 
 **Demonstrates:**
+
 - data annotation workflow
 - structured labeling
 - browser-based interaction
@@ -53,6 +55,7 @@ The goal is to build portfolio projects around realistic tasks rather than isola
 ## Technologies
 
 **Testing & QA**
+
 - Manual testing
 - Test cases
 - Bug reports
@@ -61,12 +64,14 @@ The goal is to build portfolio projects around realistic tasks rather than isola
 - API testing
 
 **AI & Data**
+
 - AI evaluation
 - Data annotation
 - Dataset quality
 - JSON
 
 **Technical**
+
 - HTML5
 - CSS3
 - JavaScript
@@ -78,12 +83,8 @@ I am interested in remote roles related to AI evaluation, data quality and softw
 
 My background in production work taught me to work with structured processes, follow requirements and identify problems in operational workflows. I am now applying the same approach to AI data and software quality.
 
-## Related Work
-
-[AI Annotation Portfolio](https://github.com/rawXman/ai-annotation-portfolio)
-
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/roman-pushkarev-1a363414)
+[LinkedIn](https://www.linkedin.com/in/roman-pushkarev-71a583414)
 
 GitHub: [@rawXman](https://github.com/rawXman)
